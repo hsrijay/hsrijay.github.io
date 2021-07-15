@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Harsha Srijay</title>
+    <link>https://harshasrijay.me/</link>
+    <description>Recent content on Harsha Srijay</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© {year}</copyright><atom:link href="https://harshasrijay.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>a bit about me</title>
+      <link>https://harshasrijay.me/info/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://harshasrijay.me/info/</guid>
+      <description>Welcome!  I&amp;rsquo;m Harsha - I go to Duke, where I study math and computer science. Among many things, I&amp;rsquo;m interested in healthcare and understanding how people think (and how to optimize it). One of my dreams is to build a firm designed for everyday people like you and me, that can democratize inaccessible and uninterpretable tools to complement our everyday decision-making.
+ I&amp;rsquo;m a fan of heuristics, and often rely on its simplicity to make sense of disorder and unpredictability.</description>
+    </item>
+    
+    <item>
+      <title>what i&#39;ve done (in progress)</title>
+      <link>https://harshasrijay.me/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://harshasrijay.me/projects/</guid>
+      <description>Data Science Intern at Redhorse Corporation  Predictive Modeling for Disease State Using NGS Data  Protein Localization Classification Using Multi-Channel Microscopy Images  Twitter Analytics Research for Dallas Mavericks  Machine Learning Software Development  Data Scientist at Hirschey Lab  Duke Applied Machine Learning  </description>
+    </item>
+    
+  </channel>
+</rss>
