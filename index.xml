@@ -6,24 +6,24 @@
     <description>Recent content on Harsha Srijay</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© {year}</copyright><atom:link href="https://harshasrijay.me/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Harshavardhan Srijay {year}</copyright><atom:link href="https://harshasrijay.me/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>a bit about me</title>
       <link>https://harshasrijay.me/info/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://harshasrijay.me/info/</guid>
-      <description>Welcome!  I&amp;rsquo;m Harsha - I go to Duke, where I study math and computer science. Among many things, I&amp;rsquo;m interested in healthcare and understanding how people think (and how to optimize it). One of my dreams is to build a firm designed for everyday people like you and me, that can democratize inaccessible and uninterpretable tools to complement our everyday decision-making.
- I&amp;rsquo;m a fan of heuristics, and often rely on its simplicity to make sense of disorder and unpredictability.</description>
+      <description>Welcome!  My name is Harshavardhan (Harsha) - I go to Duke, where I study math and computer science. Among many things, I&amp;rsquo;m interested in the future of healthcare and in understanding how people think (and how to optimize the decisions that we make).
+ One of my dreams is to build a platform for people like you and me, that can democratize inaccessible and uninterpretable tools to complement our everyday decision-making.</description>
     </item>
     
     <item>
-      <title>what i&#39;ve done (in progress)</title>
+      <title>what i&#39;ve done (and doing)</title>
       <link>https://harshasrijay.me/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://harshasrijay.me/projects/</guid>
-      <description>Data Science Intern at Redhorse Corporation  Predictive Modeling for Disease State Using NGS Data  Protein Localization Classification Using Multi-Channel Microscopy Images  Twitter Analytics Research for Dallas Mavericks  Machine Learning Software Development  Data Scientist at Hirschey Lab  Duke Applied Machine Learning  </description>
+      <description>Data Science Internship  I was a data science intern at Redhorse Corporation , a small government contractor/consulting firm headquarted in San Diego. I worked in a team to build a web application (using React and Flask), that could create a &amp;ldquo;subject matter expert&amp;rdquo; on any topic related to government processes. We built a containerized app using Docker and AWS that scraped data off of the Department of Defense website and applied various natural language processing algorithms like coreference resolution, named entity recognition, etc.</description>
     </item>
     
   </channel>
